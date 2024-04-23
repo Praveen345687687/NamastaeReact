@@ -1,0 +1,29 @@
+
+ { "name": "fooddapp",
+  "version": "1.0.0",
+  "description": "this create by praveen React foodApp",
+  "main": "app4.js",
+  "scripts": {
+    
+    "test": "TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveen345687687/NamastaeReact.git"
+  },
+  "keywords": [
+    "react",
+    "namastae",
+    "react",
+    "pravee"
+  ],
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praveen345687687/NamastaeReact/issues"
+  },
+  "homepage": "https://github.com/Praveen345687687/NamastaeReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
