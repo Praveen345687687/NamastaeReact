@@ -1,1 +1,0 @@
-const p="https://www.eatsure.com/v1/api/get_restaurants?store_id=10260&city_id=5455&";
